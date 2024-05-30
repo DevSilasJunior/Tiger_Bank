@@ -24,6 +24,7 @@ form{
     top: 20%;
     left: 10%;
     border-radius: 5%;
+    border: 2px solid rgb(55, 55, 250);
 }
 form > header{
     width: 100%;
@@ -67,7 +68,7 @@ main > article > input{
     width: 75%;
 }
 main > input{
-    background-color: rgb(0, 255, 55);
+    background-color: rgb(35, 0, 236);
     width: 60%;
     height: 20%;
     font-family: Arial, Helvetica, sans-serif;
